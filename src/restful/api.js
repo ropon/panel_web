@@ -1,6 +1,5 @@
 import Axios from 'axios'
 import store from '../store'
-import router from '../router'
 import { Message, MessageBox } from 'element-ui'
 import md5 from 'js-md5';
 
